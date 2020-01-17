@@ -1,0 +1,12 @@
+npm init	-> initialize npm
+npm install uuid -> for unique id generate
+npm install -D nodemon	-> for reload server (need change on package.json)
+npm install	-> if node-modules folder deleted, install all pre-installed dependencies
+
+npm run dev	-> for use nodemon
+
+node index.js	-> for run on terminal
+
+babel	-> if want to use "import" to linkup file
+
+heroku	-> for deploy nodejs file
